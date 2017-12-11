@@ -1,0 +1,1 @@
+I tried out the TSLint in this exercise because I didn't do the Pokequiz-Exercise
